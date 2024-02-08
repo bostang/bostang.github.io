@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>M1</title>
+        <link rel="stylesheet"  href="M1_style.css">
+    </head>
+    <body>
+        <h1>M1 : HTML & GitHub</h1>
+        <p>Berikut adalah sebuah gambar pada HTML:</p>
+        <p><img src="./img/img_1.jpeg" class="center" alt = "sebuah gambar"></p>
+        <p>untuk membuatnya, kita bisa menggunakan tag <code>&lt;img&gt;.</code></p> Sebagai contoh:
+        <p class="paragraph_code"><code>&lt;p&gt;&lt;img src="./img/img_1.jpeg" class="center" alt = "sebuah gambar"&gt;&lt;/p&gt;</code></p>
+        
+        <p>dan hasillnya seperti pada gambar di atas.</p>
+        <p><b>Catatan</b></p>
+        <li>Atribut <code>src</code> (source): Menentukan URL atau lokasi file gambar yang ingin disematkan ke dalam halaman.</li>
+        <li>Atribut <code>alt</code> (alternative text): Memberikan teks deskripsi alternatif untuk gambar. Ini penting untuk aksesibilitas dan membantu jika gambar gagal dimuat atau untuk pengguna dengan keterbatasan penglihatan.</li>
+        <li>Atribut <code>class</code> digunakan untuk memberikan satu atau beberapa nilai kelas kepada elemen HTML tertentu. Kelas-kelas ini kemudian dapat digunakan untuk merujuk elemen tersebut dari CSS atau JavaScript, atau untuk memberikan gaya dan perilaku tertentu kepada elemen tersebut.</li>
+
+        <p> pada <code>style.css</code> saya menambahkan baris kode berikut:</p>
+        <pre class="paragraph_code">
+            <code>
+                .center {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 50%;
+                  }
+            </code>
+          </pre>
+          <p>dan tidak lupa menambahkan pada bagian <code>&lt;header&gt;</code> di <code>index.html</code> kode berikut: <p></p>
+          <pre class="paragraph_code">
+            <code>
+                &lt;link rel="stylesheet"  href="style.css"&gt;                
+            </code>
+          </pre>
+        <hr>
+        <a href="../index.html"><button type="button">Back</button></a>
+    </body>
+</html>

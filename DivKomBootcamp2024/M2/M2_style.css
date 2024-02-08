@@ -1,0 +1,85 @@
+body
+{
+    margin: 25px;
+    background: black url(./img/background_2.JPG);
+    background-size: 600px 337px;
+    background-repeat:unset;
+    text-align: justify;
+    color: black;
+}
+
+h1
+{
+    color: aliceblue;
+}
+
+table
+{
+    color: aqua;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #profile_img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  /* div.polaroid {
+    width: 50%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  } */
+
+#judul_modul{
+    background-color: whitesmoke;
+    border-block: 5px solid black;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+#perintah
+{
+    border-block: 4px dotted black;
+    background-color: whitesmoke;
+    color: black;
+}
+
+#deskripsi_diri {
+    border-block-style: solid;
+    border-block-color: pink;
+    background-color: whitesmoke;
+    inline-size: 70%;
+    border-block-width: 10px;
+    align-items: center;
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px red;
+
+    width: auto;
+    /* border: 5px solid black; */
+    padding: 10px;
+     margin: 20px;
+  }
+
+#nama
+{
+    background-color: whitesmoke;
+    text-align: center;
+    border-block:1px dotted;
+}
