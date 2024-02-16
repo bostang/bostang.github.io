@@ -1,0 +1,77 @@
+body
+{
+    margin: 25px;
+    background: black url(./img/background.jpeg);
+    background-size: 600px 337px;
+    background-repeat:unset;
+    text-align: justify;
+    color: black;
+}
+
+h1
+{
+    color: aliceblue;
+}
+
+table
+{
+    color: aqua;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#judul_modul{
+    background-color: whitesmoke;
+    border-block: 5px solid black;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+#perintah
+{
+    border-block: 2px dotted black;
+    background-color:rgba(255,255,255,0.3);
+    color: black;
+
+
+}
+
+#box_game {
+    border-block-style: solid;
+    border-block-color: pink;
+    background-color: whitesmoke;
+    inline-size: 70%;
+    border-block-width: 10px;
+    align-items: center;
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px red;
+
+    width: auto;
+    /* border: 5px solid black; */
+    padding: 10px;
+     margin: 20px;
+  }
+
+#angka_tebakan {
+  font-size: 40px;
+  /* align-items: center; */
+  /* margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+
+}
+
+#judul_bagian
+{
+    background-color: rgba(255,255,255,0.3);
+    text-align: center;
+    color: black;
+    border-block:1px dotted;
+}
