@@ -17,12 +17,34 @@
         </div>
         <hr>
         <!-- <p>Berikut adalah sebuah gambar pada HTML:</p> -->
-        <h1 id ="judul_bagian">Kesan Pertama Pak Agung</h1>
-       <p> Menggunakan Google App Scripts & APIs untuk menampilkan testimoni anak-anak murid Pak Agung Harsoyo pada mata kuliah EL2006 Medan Elektormagnetik (K03) </p>
-        <div id="box_game">
-            <p> test </p>
-        </div>
-        <p id="angka_tebakan"></p>
+        <h1 id ="judul_bagian">Kesan Pertama Siswa-siswi EL2006 (K03) Terhadap Pak Agung</h1>
+        <center><img src="./img/Agung_Harsoyo.jpg" alt = "Pak Agung" id="_img"></center>
+        <p> <b>Latar Belakang:</b><br>Pada semester genap 2024 ini, Saya berkesempatan menjadi asisten mata kuliah EL2006 (K03) yang diampuh oleh Pak Agung Harsoyo. Saya direkrut beliau semenjak semester lalu karena beliau cukup mengenali saya dan tahu akan kemampuan saya dalam mata kuliah medan.</p>
+       <p><b>Deskripsi:</b><br> Menggunakan Google App Scripts & APIs untuk menampilkan testimoni (kesan pertama) anak-anak murid Pak Agung Harsoyo pada mata kuliah EL2006 Medan Elektormagnetik (K03) </p>
+        <!-- <div id="box_game"> -->
+            <table id="data-table">
+                <thead>
+                  <tr>
+                    <th>Timestamp</th>
+                    <th>NIM</th>
+                    <th>Saya memiliki basic matematika yang kuat</th>
+                    <th>Saya memiliki basic fisika listrik & magnet yang kuat</th>
+                    <th>Bagaimana pengajaran pak Agung pada siang ini?</th>
+                    <th>Apakah anda paham dengan hal-hal yang dibahas pak Agung pada siang ini?</th>
+                    <th>Bagaimana impresi anda terhadap cara mengajar Pak Agung dari pertemuan pertama ini</th>
+                    <th>Apa yang terjadi kepada anda kalau sepanjang semester pola perkuliahan EL2006 dengan Pak Agung seperti ini?</th>
+                    <th>Apa yang anda ekspektasikan dari sesi tutorial yang akan dilakukan sebagai pelengkap perkuliahan EL2006 ini? Apakah ada saran atau masukan untuk sesi tutorial yang akan diberikan?</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Data rows will be inserted here dynamically -->
+                </tbody>
+              </table>
+             <script>
+                const apiEndpoint = 'https://script.google.com/macros/s/AKfycbyIWVbHtMKUKRiF7Yced0-jso-ygREg_8i5VcCEJu9fJehKqH92QHT_IsoWGPh666CO/exec';
+                fetchAndDisplayData(apiEndpoint);
+             </script>
+        <!-- </div> -->
         <hr>
         <p><a href="../index.html"><button type="button">Back</button></a></h2>
     </body>
