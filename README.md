@@ -1,2 +1,6 @@
-# bostang.github.io
-This repository is still being under developed as my portfolio
+# JohnDoe
+A Responsive Free One Page Portfolio Website template
+
+
+
+
