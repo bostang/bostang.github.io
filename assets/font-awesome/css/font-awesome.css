@@ -310,6 +310,10 @@
 .fa-camera:before {
   content: "\f030";
 }
+.fa-brain:before {
+  content: "\f5dc";
+}
+
 .fa-font:before {
   content: "\f031";
 }
