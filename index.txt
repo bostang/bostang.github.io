@@ -1,0 +1,75 @@
+    <!-- ==========================
+        CLIENT SECTION 
+        =========================== -->
+    <div class="container-fluid">
+        <div class="row color-bg">
+            <!-- Left Image -->
+            <div class="col-md-6 nopadding features-intro-img wow fadeInLeft">
+                <div class="about-image" style="background-image:url(img/clients.png)"></div>
+            </div>
+            <!-- Clients / Testimonials -->
+            <div class="col-md-6 nopadding about-text">
+                <h6>What our clients said</h6>
+                <div id="clientSlider">
+                    <ul class="slides">
+                        <li>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                                invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+                                sanctus est Lorem ipsum dolor sit amet. <br> <small>- Pete Rock, A New Tomorrow</small>
+                            </p>
+                        </li>
+                        <li>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                                invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+                                sanctus est Lorem ipsum dolor sit amet. <br> <small>- Michael Snowden, Creativeland
+                                    CEO</small></p>
+                        </li>
+                        <li>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                                invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+                                sanctus est Lorem ipsum dolor sit amet. <br> <small>- Tom Davis, GreenWonder</small></p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ==========================
+        CLIENTS SECTION END
+        =========================== -->
+
+
+    <!-- ==========================
+        NEWSLETTER SECTION 
+        =========================== -->
+    <section>
+        <div class="container-fluid">
+            <div class="row color-bg">
+                <div class="col-md-6 nopadding subscribe text-center">
+                    <h1><i class="fa fa-gear"></i><span>My Other Technical Skills</span></h1><!-- Heading -->
+                    <!-- <div class="other_skills"> -->
+                        <span style="text-align: center;">
+                        <p>
+                            1. <b>Linux shell</b> scripting (Bash)<br>
+                            2. <b>ROS</b> and <b>Gazeboo</b> Simulation<br>
+                            3. Network analysis with <b>Wireshark</b><br>
+                            4. Static Front-end with HTML, CSS, and JavaScript<br>
+                            5. <b>Photo</b> and <b>Video</b> Editing
+                            6. Spreadsheet<br>
+                        </p>
+                    </span>
+                    <!-- </div> -->
+                </div>
+                
+                <div class="col-md-6 nopadding features-intro-img">
+                    <div class="about-image" style="background-image:url(img/newsletter.png)"></div><!-- Right Image -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ==========================
+        NEWSLETTER SECTION END
+        =========================== -->
