@@ -1,0 +1,38 @@
+- key: Name
+  value: Bostang Palaguna
+
+- key: Description
+  value:
+    - Running Enthusiast
+    - Passionate about technologies
+
+- key: Email
+  value: bostang.palaguna.s@gmail.com
+  url: mailto:bostang.palaguna.s@gmail.com
+
+- key: GitHub
+  value: bostang
+  url: https://github.com/bostang
+
+- key: LinkedIn
+  value: Bostang Palaguna
+  url: https://www.linkedin.com/in/bostang-p-192723129/
+
+- key: Youtube
+  value:
+    - value: Bostang Palaguna
+      url: https://www.youtube.com/@bostangpalaguna8467
+    - value: Berjibaku Prestasi
+      url: https://www.youtube.com/@berjibakuprestasi
+
+- key: Skills
+  value:
+    - Scripting with Bash
+    - Python for almost anything
+    - C/C++ for almost anything
+    - Java for Web Development
+    - PostgreSQL
+    - DevOps
+    
+- key: Location
+  value: Jakarta, Indonesia
