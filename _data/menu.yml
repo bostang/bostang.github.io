@@ -12,7 +12,6 @@ entries:
   - title: social media
     entries:
       - title: github
-          url: https://github.com/bostang
+        url: https://github.com/bostang
       - title: instagram
-          url: https://www.instagram.com/bostang_ps/
-    
+        url: https://www.instagram.com/bostang_ps/
