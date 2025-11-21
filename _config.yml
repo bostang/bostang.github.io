@@ -1,0 +1,18 @@
+# Site settings
+title: Bostang Palaguna
+description: My landing page
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Bostang Palaguna
+user_description: I'm currently working on PT. Bank Negara Indonesia as an IT Operations Officer. I have a hobby on running and passionate to learn anything from anyone.
+user_title: IT Ops Officer
+email: bostang.palaguna.s@gmail.com
+instagram_username: bostang_ps
+facebook_username: bostang.p
+linkedin_username: bostang.palaguna 
+github_username:  bostang
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
