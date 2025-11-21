@@ -1,0 +1,18 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: basic info
+    entries:
+      - title: "name: Bostang Palaguna"
+      - title: "job: IT Opeartions Engineer @ PT. Bank Negara Indonesia"
+      - title: "hobby: Running, Learning"
+
+  
+  - title: social media
+    entries:
+      - title: github
+          url: https://github.com/bostang
+      - title: instagram
+          url: https://www.instagram.com/bostang_ps/
+    

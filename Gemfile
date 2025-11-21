@@ -1,6 +1,12 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-gem "dotenv"
-gem "github-pages"
-gem "jekyll"
-gem "jekyll-github-metadata"
+gem "kramdown-parser-gfm"
+gem "webrick"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "logger"
+
+gemspec
